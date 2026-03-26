@@ -75,8 +75,3 @@ Base path: `api/auth`
 - Store secrets in environment variables or secret stores (do not commit secrets).
 - Consider refresh token revocation and device/session tracking for improved security.
 - Enforce HTTPS in production.
-
-## Next steps
-
-- Add a `.gitignore` (for `bin/`, `obj/`, `secrets`, etc.) and create an initial commit.
-- I can add example `appsettings.Development.json`, sample `UserDto` schema, or a Postman collection if desired.
