@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+*.db
+appsettings.*.json
+secrets.json
+.env
+*.log
+*.db
+*.sqlite
+.idea/
+.releases/
+.nuget/
+*.pdb
